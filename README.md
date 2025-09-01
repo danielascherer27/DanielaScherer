@@ -6,7 +6,7 @@
 
 <h2 align="left">🌷 Sobre Mim</h2>
 
-<h3 align="left">Sou Analista de Negócios - Planejamento e Sistemas e estudante de Engenharia de Software, com experiência em automação de processos, análise de requisitos e desenvolvimento de soluções inovadoras para otimizar a eficiência operacional. Atualmente atuo na C.Vale - Cooperativa Agroindustrial, com foco em projetos de automação, inovação e robotização de processos. Sou graduanda em Engenharia de Software no Biopark Educação, com formação técnica em Informática.</h3>
+<h3 align="left">Sou Analista de Negócios - Planejamento e Sistemas, com experiência em automação de processos, análise de requisitos e desenvolvimento de soluções inovadoras para otimizar a eficiência operacional. Atualmente atuo na C.Vale - Cooperativa Agroindustrial, com foco em projetos de automação, inovação e robotização de processos. Sou graduanda em Engenharia de Software no Biopark Educação, com formação técnica em Informática.</h3>
 
 ###
 
