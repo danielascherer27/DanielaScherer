@@ -13,7 +13,6 @@
 <h2 align="left">💻 Linguagens de Aprendizado</h2>
 
 <div align="left">
-  <img src="[https://skillicons.dev/icons?i=java](https://upload.wikimedia.org/wikipedia/commons/4/4d/Microsoft_Power_Automate.svg)" height="50" alt="Power Automate logo"  />
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
@@ -53,6 +52,8 @@
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=idea" height="50" alt="idea logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="50" alt="pycharm logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
   <img width="10" />
